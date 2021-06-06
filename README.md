@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HELLHOUND457
 - 👀 I’m interested in cybersec
 - 🌱 I’m currently learning pentesting and cyber sec
-- 💞️ I’m looking to collaborate on ideas and patient friends
+- 💞️ I’m looking to collaborate on ideas 
 - 📫 How to reach me ...
 
 <!---
