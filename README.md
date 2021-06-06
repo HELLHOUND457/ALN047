@@ -2,7 +2,8 @@
 - 👀 I’m interested in cybersec
 - 🌱 I’m currently learning pentesting and cyber sec
 - 💞️ I’m looking to collaborate on ideas 
-- 📫 How to reach me ...
+- 📫 Twitter @hell_hound_0
+-
 
 <!---
 HELLHOUND457/HELLHOUND457 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
